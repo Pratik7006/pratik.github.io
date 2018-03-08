@@ -1,0 +1,8 @@
+.btn-primary:hover{
+	background-color:#000 ;
+	color:#fff;
+}
+.col{
+	background-color: grey;
+	border: 1px solid black;
+}
